@@ -25,7 +25,8 @@ I’m [@ExploreWithCode](https://github.com/ExploreWithCode)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://en.wikipedia.org/wiki/HTML" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+  <a href="https://en.wikipedia.org/wiki/HTML" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" title="HTML" width="40" height="40"/> </a>
   </p>
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=ExploreWithCode&show_icons=true alt=rahuldkjain /> </p>
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=ExploreWithCode&show_icons=true alt=ExploreWithCode /> </p>
 
+- ⚡ Fun fact: I made [this](https://github.com/ExploreWithCode/rickroll)
