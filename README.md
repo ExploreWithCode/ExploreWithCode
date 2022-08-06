@@ -10,7 +10,7 @@
 ExploreWithCode/ExploreWithCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<a href="https://github.com/ExploreWithCode/pixel-art/wiki" target="_blank" title="pixel Pikachu (code created by @ExploreWithCode"><img src="https://user-images.githubusercontent.com/109108536/182130279-8cc77124-9d42-440c-a98f-24385e31247a.png"></a>
+<a href="https://github.com/ExploreWithCode/pixel-art/wiki" target="_blank" title="pixel Pikachu (code created by @ExploreWithCode)"><img src="https://user-images.githubusercontent.com/109108536/182130279-8cc77124-9d42-440c-a98f-24385e31247a.png"></a>
 
 `Hello, world!👋`
 
