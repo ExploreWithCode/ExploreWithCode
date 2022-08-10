@@ -1,7 +1,7 @@
 <!--- 
 -👋 Hi, I’m @ExploreWithCode.
 - 👀 I’m interested in blockchain, privacy, security and anonimity.
-- 🌱 I’m currently learning HTML.
+- 🌱 I’m currently learning HTML and Javascript.
 - 💞️ I’m looking to collaborate on simple projects, but I would like to contribute, wherever I can.
 - 📫 How to reach me ...through the options provided by this platform.
 --->
