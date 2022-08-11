@@ -32,8 +32,6 @@ I’m [@ExploreWithCode](https://github.com/ExploreWithCode)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ExploreWithCode&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 --->
 
-
-
 <!---![Top Langs](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=ExploreWithCode&layout=compact&langs_count=10&hide_border=1&theme=dark)
 --->
 
@@ -43,8 +41,10 @@ I’m [@ExploreWithCode](https://github.com/ExploreWithCode)
   </p>
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ExploreWithCode&layout=compact&theme=dark)
-  
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=ExploreWithCode&show_icons=true&theme=dark alt=ExploreWithCode /> </p>
+### Stats
+<p align=center>
+    <img src=https://github-readme-stats.vercel.app/api?username=ExploreWithCode&show_icons=true&theme=dark&hide_border=true alt=ExploreWithCode />
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=ExploreWithCode&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"> </p>
 
 ### Top Repositories
 
@@ -54,5 +54,6 @@ I’m [@ExploreWithCode](https://github.com/ExploreWithCode)
 <a href="https://github.com/ExploreWithCode/HTML-national-flags">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ExploreWithCode&repo=HTML-national-flags&theme=dark" />
 </a>
+
 
 - ⚡ Fun fact: I made [this](https://github.com/ExploreWithCode/rickroll)
