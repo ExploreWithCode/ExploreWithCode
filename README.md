@@ -9,11 +9,19 @@
 ExploreWithCode/ExploreWithCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<!---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ExploreWithCode&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+--->
+<!---![Top Langs](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=ExploreWithCode&layout=compact&langs_count=10&hide_border=1&theme=dark)
+--->
+<!---<audio controls>
+	<source src="https://user-images.githubusercontent.com/109108536/184554906-3dc0648e-dd6f-487d-acdc-2a1c8c7269de.mp4" type="audio/mpeg">
+</audio>
+-->
+
 # Hello, world!👋
 
 <a href="https://github.com/ExploreWithCode/pixel-art/wiki" target="_blank" title="pixel Pikachu (code created by @ExploreWithCode)"><img src="https://user-images.githubusercontent.com/109108536/182130279-8cc77124-9d42-440c-a98f-24385e31247a.png"></a>
-
-
 
 I’m [@ExploreWithCode](https://github.com/ExploreWithCode)
 
@@ -29,11 +37,6 @@ I’m [@ExploreWithCode](https://github.com/ExploreWithCode)
 - 💞️ I’m looking to collaborate on simple projects, but I would like to contribute wherever I can.
 - 📫 Reach me [here](https://github.com/ExploreWithCode/ExploreWithCode/discussions)
 
-<!---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ExploreWithCode&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
---->
-<!---![Top Langs](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=ExploreWithCode&layout=compact&langs_count=10&hide_border=1&theme=dark)
---->
 
 ## Languages and tools I am familiar with:
 
