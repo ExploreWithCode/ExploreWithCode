@@ -26,7 +26,7 @@ I’m [@ExploreWithCode](https://github.com/ExploreWithCode)
 - 👀 I’m interested in blockchain, privacy, security and anonymity.
 - 🌱 I’m currently learning HTML and Javascript and I'm working on [pixel art](https://github.com/ExploreWithCode/pixel-art).
 - 💞️ I’m looking to collaborate on simple projects, but I would like to contribute, wherever I can.
-- 📫 Reach me through the options provided by this platform.
+- 📫 Reach me [here](https://github.com/ExploreWithCode/ExploreWithCode/discussions)
 
 <!---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ExploreWithCode&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
