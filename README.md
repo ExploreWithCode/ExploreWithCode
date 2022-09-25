@@ -47,8 +47,8 @@ I’m [@ExploreWithCode](https://github.com/ExploreWithCode)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ExploreWithCode&layout=compact&theme=dark)
 ## Stats:
 <p align=center>
-    <img src=https://github-readme-stats.vercel.app/api?username=ExploreWithCode&show_icons=true&theme=dark&hide_border=true alt=ExploreWithCode / width="45%">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=ExploreWithCode&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="45%"> 
+    <img src=https://github-readme-stats.vercel.app/api?username=ExploreWithCode&show_icons=true&theme=gotham&hide_border=true alt=ExploreWithCode / width="45%">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=ExploreWithCode&theme=android-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="45%"> 
     <img src="https://activity-graph.herokuapp.com/graph?username=ExploreWithCode&hide_border=true&bg_color=050F2C&color=0194DD&line=0194DD&point=2DDD97">
 </p>
 
