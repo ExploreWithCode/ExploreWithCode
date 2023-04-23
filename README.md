@@ -1,7 +1,7 @@
 <!--- 
 -👋 Hi, I’m @ExploreWithCode.
 - 👀 I’m interested in blockchain, privacy, security and anonymity.
-- 🌱 I’m currently learning HTML and Javascript.
+- 🌱 I’m currently learning HTML and Javascript and I'm working on [pixel art](https://github.com/ExploreWithCode/pixel-art).
 - 💞️ I’m looking to collaborate on simple projects, but I would like to contribute, wherever I can.
 - 📫 How to reach me ...through the options provided by this platform.
 --->
@@ -10,6 +10,7 @@ ExploreWithCode/ExploreWithCode is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 <!---
+<img src="https://activity-graph.herokuapp.com/graph?username=ExploreWithCode&hide_border=true&bg_color=050F2C&color=0194DD&line=0194DD&point=2DDD97">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ExploreWithCode&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 --->
 <!---![Top Langs](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=ExploreWithCode&layout=compact&langs_count=10&hide_border=1&theme=dark)
@@ -33,7 +34,7 @@ I’m [@ExploreWithCode](https://github.com/ExploreWithCode)
 </table>
 
 - 👀 I’m interested in blockchain, privacy, security and anonymity.
-- 🌱 I’m currently learning HTML and Javascript and I'm working on [pixel art](https://github.com/ExploreWithCode/pixel-art).
+- 🌱 I’m currently learning Python and updating my repos.
 - 💞️ I’m looking to collaborate on simple projects, but I would like to contribute wherever I can.
 - 📫 Reach me [here](https://github.com/ExploreWithCode/ExploreWithCode/discussions)
 
@@ -50,7 +51,6 @@ I’m [@ExploreWithCode](https://github.com/ExploreWithCode)
 <p align=center>
     <img src=https://github-readme-stats.vercel.app/api?username=ExploreWithCode&show_icons=true&theme=gotham&hide_border=true alt=ExploreWithCode / width="45%">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=ExploreWithCode&theme=android-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="45%"> 
-    <img src="https://activity-graph.herokuapp.com/graph?username=ExploreWithCode&hide_border=true&bg_color=050F2C&color=0194DD&line=0194DD&point=2DDD97">
 </p>
 
 ### Top Repositories:
