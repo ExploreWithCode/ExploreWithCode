@@ -1,6 +1,6 @@
 <!--- 
 -👋 Hi, I’m @ExploreWithCode.
-- 👀 I’m interested in blockchain, privacy, security and anonimity.
+- 👀 I’m interested in blockchain, privacy, security and anonymity.
 - 🌱 I’m currently learning HTML and Javascript.
 - 💞️ I’m looking to collaborate on simple projects, but I would like to contribute, wherever I can.
 - 📫 How to reach me ...through the options provided by this platform.
@@ -42,6 +42,7 @@ I’m [@ExploreWithCode](https://github.com/ExploreWithCode)
 
 <p align="left">
   <a href="https://en.wikipedia.org/wiki/HTML" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" title="HTML" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" title="Python" width="40" height="40"/> </a>
   </p>
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ExploreWithCode&layout=compact&theme=dark)
