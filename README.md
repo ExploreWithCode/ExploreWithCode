@@ -36,6 +36,7 @@ I’m [@ExploreWithCode](https://github.com/ExploreWithCode)
 - 👀 I’m interested in blockchain, privacy, security and anonymity.
 - 🌱 I’m currently learning Python and updating my repos.
 - 💞️ I’m looking to collaborate on simple projects, but I would like to contribute wherever I can.
+- 🎹 Synthwave boosts my coding sessions.
 - 📫 Reach me [here](https://github.com/ExploreWithCode/ExploreWithCode/discussions)
 
 
