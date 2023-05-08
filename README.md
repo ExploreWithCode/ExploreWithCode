@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 <!---<audio controls>
 	<source src="https://user-images.githubusercontent.com/109108536/184554906-3dc0648e-dd6f-487d-acdc-2a1c8c7269de.mp4" type="audio/mpeg">
 </audio>
--->
+--->
 
 # Hello, world!👋
 
@@ -47,12 +47,14 @@ I’m [@ExploreWithCode](https://github.com/ExploreWithCode)
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" title="Python" width="40" height="40"/> </a>
   </p>
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ExploreWithCode&layout=compact&theme=dark)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ExploreWithCode&show_icons=true&theme=gotham)
 ## Stats:
-<p align=center>
-    <img src=https://github-readme-stats.vercel.app/api?username=ExploreWithCode&show_icons=true&theme=gotham&hide_border=true alt=ExploreWithCode / width="45%">
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ExploreWithCode&show_icons=true&theme=gotham)
+![](https://github-readme-streak-stats.herokuapp.com?user=ExploreWithCode&theme=android-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+<!---<p align=center>
+    <img src=https://github-readme-stats.vercel.app/api?username=ExploreWithCode&show_icons=true&theme=gotham alt=ExploreWithCode / width="45%">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=ExploreWithCode&theme=android-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="45%"> 
-</p>
+</p>--->
 
 ### Top Repositories:
 
