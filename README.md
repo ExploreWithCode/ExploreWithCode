@@ -49,12 +49,14 @@ I’m [@ExploreWithCode](https://github.com/ExploreWithCode)
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ExploreWithCode&show_icons=true&theme=gotham)
 ## Stats:
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ExploreWithCode&show_icons=true&theme=gotham)
-![](https://github-readme-streak-stats.herokuapp.com?user=ExploreWithCode&theme=android-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-<!---<p align=center>
+<!---![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ExploreWithCode&show_icons=true&theme=gotham)
+![](https://github-readme-streak-stats.herokuapp.com?user=ExploreWithCode&theme=android-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)--->
+<p align=center>
     <img src=https://github-readme-stats.vercel.app/api?username=ExploreWithCode&show_icons=true&theme=gotham alt=ExploreWithCode / width="45%">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=ExploreWithCode&theme=android-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="45%"> 
-</p>--->
+</p>
+
+[![My github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ExploreWithCode&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Top Repositories:
 
