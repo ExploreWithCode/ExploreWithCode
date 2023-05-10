@@ -47,7 +47,9 @@ I’m [@ExploreWithCode](https://github.com/ExploreWithCode)
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" title="Python" width="40" height="40"/> </a>
   </p>
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ExploreWithCode&show_icons=true&theme=gotham)
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExploreWithCode&layout=compact&theme=gotham&hide_border=true" /></a>
+  
+  <!---![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ExploreWithCode&show_icons=true&theme=gotham)--->
 ## Stats:
 <!---![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ExploreWithCode&show_icons=true&theme=gotham)
 ![](https://github-readme-streak-stats.herokuapp.com?user=ExploreWithCode&theme=android-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)--->
