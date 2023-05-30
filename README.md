@@ -58,7 +58,7 @@ I’m [@ExploreWithCode](https://github.com/ExploreWithCode)
     <img src="https://github-readme-streak-stats.herokuapp.com?user=ExploreWithCode&theme=android-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="45%"> 
 </p>
 
-[![My github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ExploreWithCode&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ExploreWithCode&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Top Repositories:
 
