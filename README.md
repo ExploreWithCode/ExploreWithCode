@@ -66,7 +66,7 @@ I’m [@ExploreWithCode](https://github.com/ExploreWithCode)
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ExploreWithCode&repo=pixel-art&theme=gotham" />
 </a>
 <a href="https://github.com/ExploreWithCode/HTML-national-flags">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ExploreWithCode&repo=HTML-national-flags&theme=gotham" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ExploreWithCode&repo=HTML-national-flags&theme=gotham" />
 </a>
 <br><br><br>
 
