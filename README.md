@@ -55,7 +55,7 @@ I’m [@ExploreWithCode](https://github.com/ExploreWithCode)
 ![](https://github-readme-streak-stats.herokuapp.com?user=ExploreWithCode&theme=android-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)--->
 <p align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=ExploreWithCode&show_icons=true&include_all_commits=true&theme=gotham&hide_border=true" alt="ExWiCo's github stats" width="45%"/></a>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=ExploreWithCode&theme=android-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="45%"> 
+    <img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=ExploreWithCode&theme=android-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="45%"> 
 </p>
 
 [![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ExploreWithCode&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
