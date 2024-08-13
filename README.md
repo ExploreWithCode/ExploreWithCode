@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 
 # Hello, world!👋
 
-<a href="https://github.com/ExploreWithCode/pixel-art/wiki" target="_blank" title="pixel Pikachu (code created by @ExploreWithCode)"><img src="https://user-images.githubusercontent.com/109108536/182130279-8cc77124-9d42-440c-a98f-24385e31247a.png"></a>
+<img src="http://orig13.deviantart.net/c46e/f/2013/284/4/7/technical_revolution__4k_and_full_hd__by_dario999-d6q18m9.jpg"></a>
 
 I’m [@ExploreWithCode](https://github.com/ExploreWithCode)
 
